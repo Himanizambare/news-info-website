@@ -74,3 +74,6 @@ searchbutton.addEventListener('click',()=>{
    curselectnav?.classList.remove('active');
    curselectnav=null;
 })
+
+//upload
+
